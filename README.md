@@ -1,6 +1,7 @@
     Hi there, we are LoSti's World
     A group of Designer and Developer
-    Together, we're a dynamic force, united by passion and committed to excellence in every project with 100% passion.
+    Together, we're a dynamic force, united by passion and 
+    committed to excellence in every project with 100% passion.
     Welcome to our GitHub page!
 
 ![](https://github.com/LoStis-World/LoStis-World/blob/main/headerpic-group.jpg)
